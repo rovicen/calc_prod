@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Producción Cursos FPE AWAKELAB",
+  "description": "Una aplicación web interactiva para estimar el tiempo total de producción (en horas) requerido para crear cursos FPE, basada en actividades, complejidad y número de módulos técnicos.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
